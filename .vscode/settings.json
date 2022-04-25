@@ -7,6 +7,7 @@
   "eslint.validate": [
   "typescript",
   "javascript",
+  "html",
   ],
   "stylelint.validate":[
       "scss",
